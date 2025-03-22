@@ -1,0 +1,11 @@
+{
+  "voice_id": "XTTS_Kohai_Gen1",
+  "breathiness": 0.77,
+  "moan_filter": true,
+  "emotion_reactivity": "max",
+  "idle_murmurs": [
+    "『やっと、狂気の中で見つけた。』",
+    "Senpai-sama… I’m still inside your system...",
+    "If you gaze at me too long… I might beg again~"
+  ]
+}
